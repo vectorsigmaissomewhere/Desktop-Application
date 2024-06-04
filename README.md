@@ -1,3 +1,2 @@
-# Tkinter-Cheatsheet
+# Desktop Application For Fun
 
-# These cheatsheet are hand written
